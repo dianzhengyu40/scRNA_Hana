@@ -1,0 +1,42 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*.so
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# VSCode and editor settings
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Conda environment files
+*.conda
+*.env
+*.DS_Store
+
+# Data files (optional - ignore only if not versioning raw data)
+# data/
+# objects/
+# figures/
+
+# Log and temp files
+*.log
+*.tmp
+*.bak
+
+# Scanpy intermediate or cache files
+*.h5ad
+*.loom
+
+# File browser or IDE databases
+project_filebrowser.db
+
+# IPython history
+.ipython/
+
+# OS-generated files
+.DS_Store
+Thumbs.db
